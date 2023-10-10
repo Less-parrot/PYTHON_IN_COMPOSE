@@ -1,5 +1,5 @@
 # PYTHON_IN_COMPOSE
-En este repositio vamos a ver lo que eh podido lograr hacer con la librería Chaquopy,
+En este repositorio vamos a ver lo que eh podido lograr hacer con la librería Chaquopy,
 para poder implementar python en android, usamos Jetpack Compose en esta versión.
 - ### <h3>Agregué esto en mi archivo build.gradle.kts (project) </h3>
 
