@@ -1,4 +1,4 @@
-package com.pythontest.intentaride.screens
+package com.pythontest.intentaride.views.screen1
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
